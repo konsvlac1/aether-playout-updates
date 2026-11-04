@@ -1,8 +1,8 @@
 {
- "version": "1.22",
+ "version": "1.23",
  "date": "2026-11-05",
  "notes": {
-  "en": "The screen reconnects by itself when its live connection dies silently (e.g. Docker Desktop on Windows after an update: sound on air but On Air frozen); On Air fits phones, tablets and smaller laptop screens",
-  "el": "Η οθόνη ξανασυνδέεται μόνη της όταν η ζωντανή σύνδεσή της πέφτει αθόρυβα (π.χ. Docker Desktop στα Windows μετά από ενημέρωση: ήχος στον αέρα αλλά «Στον αέρα» παγωμένο)· ο αέρας χωράει σε κινητά, tablet και μικρότερες οθόνες laptop"
+  "en": "Extra stations: the On Air screen gets its live status again (browsers ask for compressed messages, which the pass-through of the main server could not read: blank On Air or “No live connection”); live updates to each page never wait for a slow page",
+  "el": "Επιπλέον σταθμοί: η οθόνη «Στον αέρα» παίρνει ξανά τη ζωντανή κατάσταση (οι browsers ζητούν συμπιεσμένα μηνύματα, που η διέλευση από τον κύριο server δεν μπορούσε να διαβάσει: κενό «Στον αέρα» ή «Χωρίς ζωντανή σύνδεση»)· οι ζωντανές ενημερώσεις κάθε σελίδας δεν περιμένουν ποτέ μια αργή σελίδα"
  }
 }
