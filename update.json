@@ -1,8 +1,8 @@
 {
- "version": "1.21",
- "date": "2026-11-04",
+ "version": "1.22",
+ "date": "2026-11-05",
  "notes": {
-  "en": "Secure connection: https on the same port with Aether's own certificate (install it once, no warnings; or your own certificate), “always https” and Listen on https pages; a ⬆ notice when a new version is out; Stereo Tool's window can be edited on every page, also from older browsers",
-  "el": "Ασφαλής σύνδεση: https στην ίδια θύρα με το δικό πιστοποιητικό του Aether (εγκατάσταση μία φορά, χωρίς προειδοποιήσεις· ή δικό σας πιστοποιητικό), «πάντα https» και Ακρόαση σε σελίδες https· ειδοποίηση ⬆ όταν βγαίνει νέα έκδοση· το παράθυρο του Stereo Tool αλλάζει ρυθμίσεις σε όλες τις σελίδες, και από παλαιότερους browsers"
+  "en": "The screen reconnects by itself when its live connection dies silently (e.g. Docker Desktop on Windows after an update: sound on air but On Air frozen); On Air fits phones, tablets and smaller laptop screens",
+  "el": "Η οθόνη ξανασυνδέεται μόνη της όταν η ζωντανή σύνδεσή της πέφτει αθόρυβα (π.χ. Docker Desktop στα Windows μετά από ενημέρωση: ήχος στον αέρα αλλά «Στον αέρα» παγωμένο)· ο αέρας χωράει σε κινητά, tablet και μικρότερες οθόνες laptop"
  }
 }
