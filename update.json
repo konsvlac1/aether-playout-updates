@@ -1,8 +1,8 @@
 {
- "version": "1.23",
- "date": "2026-11-05",
+ "version": "1.24",
+ "date": "2026-11-06",
  "notes": {
-  "en": "Extra stations: the On Air screen gets its live status again (browsers ask for compressed messages, which the pass-through of the main server could not read: blank On Air or “No live connection”); live updates to each page never wait for a slow page",
-  "el": "Επιπλέον σταθμοί: η οθόνη «Στον αέρα» παίρνει ξανά τη ζωντανή κατάσταση (οι browsers ζητούν συμπιεσμένα μηνύματα, που η διέλευση από τον κύριο server δεν μπορούσε να διαβάσει: κενό «Στον αέρα» ή «Χωρίς ζωντανή σύνδεση»)· οι ζωντανές ενημερώσεις κάθε σελίδας δεν περιμένουν ποτέ μια αργή σελίδα"
+  "en": "A professional look: one icon set instead of emoji (the same on every computer), the Inter font built in, a light theme next to the dark one, coloured bars for the kind of each item, explanations behind ⓘ; choose the features each station uses (setup wizard, Settings → Features)",
+  "el": "Επαγγελματική εμφάνιση: ένα σετ εικονιδίων αντί για emoji (ίδιο σε κάθε υπολογιστή), ενσωματωμένη η γραμματοσειρά Inter, ανοιχτό θέμα δίπλα στο σκούρο, χρωματιστή μπάρα για το είδος κάθε στοιχείου, εξηγήσεις πίσω από το ⓘ· επιλογή των λειτουργιών που χρησιμοποιεί κάθε σταθμός (οδηγός ρύθμισης, Ρυθμίσεις → Λειτουργίες)"
  }
 }
