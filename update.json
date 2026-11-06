@@ -1,8 +1,8 @@
 {
- "version": "1.24",
+ "version": "1.26",
  "date": "2026-11-06",
  "notes": {
-  "en": "A professional look: one icon set instead of emoji (the same on every computer), the Inter font built in, a light theme next to the dark one, coloured bars for the kind of each item, explanations behind ⓘ; choose the features each station uses (setup wizard, Settings → Features)",
-  "el": "Επαγγελματική εμφάνιση: ένα σετ εικονιδίων αντί για emoji (ίδιο σε κάθε υπολογιστή), ενσωματωμένη η γραμματοσειρά Inter, ανοιχτό θέμα δίπλα στο σκούρο, χρωματιστή μπάρα για το είδος κάθε στοιχείου, εξηγήσεις πίσω από το ⓘ· επιλογή των λειτουργιών που χρησιμοποιεί κάθε σταθμός (οδηγός ρύθμισης, Ρυθμίσεις → Λειτουργίες)"
+  "en": "Live assist works again (it switched straight back to AUTO), so do the Mic button, the carts, Record now and Next ad break now with their options; spots get a priority (high / normal / low) for breaks without room for all",
+  "el": "Το Χειροκίνητο λειτουργεί ξανά (γύριζε αμέσως σε Αυτόματο), όπως και το κουμπί Μικρόφωνο, τα carts, η Ηχογράφηση τώρα και το Επόμενο διάλειμμα τώρα με τις επιλογές τους· τα σποτ έχουν προτεραιότητα (υψηλή / κανονική / χαμηλή) για διαλείμματα που δεν τα χωράνε όλα"
  }
 }
