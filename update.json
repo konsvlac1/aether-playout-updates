@@ -1,8 +1,8 @@
 {
- "version": "1.27",
+ "version": "1.29",
  "date": "2026-11-07",
  "notes": {
-  "en": "Billing list per month (price per airing, per month or for the whole campaign, discount, VAT; CSV for the accountant, PDF per client, invoiced or not) and a stream alarm that listens to the station's streams once a minute and alerts when one is silent or down; Library: add files or whole folders from this computer (or drag them onto the page), besides folders of the music drive",
-  "el": "Λίστα χρεώσεων ανά μήνα (τιμή ανά μετάδοση, ανά μήνα ή για όλη την καμπάνια, έκπτωση, ΦΠΑ· CSV για τον λογιστή, PDF ανά πελάτη, τιμολογημένο ή όχι) και συναγερμός stream που ακούει τα streams του σταθμού κάθε λεπτό και ειδοποιεί όταν κάποιο είναι σιωπηλό ή πεσμένο· Βιβλιοθήκη: προσθήκη αρχείων ή ολόκληρων φακέλων από τον υπολογιστή (ή σύρσιμο πάνω στη σελίδα), εκτός από φακέλους του δίσκου μουσικής"
+  "en": "Station administration in one place (Menu → Station administration, administrators): every station with its state, what plays and its last backup; pause and start a station; removal only after typing its name; removed stations kept and restored with one click; their data deleted for good as a separate step. Greek tags from old MP3s (Windows-1253 read as Latin) corrected by themselves. Covers on extra stations show the right song. Quality of the built-in stream (Settings → Internet streaming): 128 to 320 kb/s; 320 kb/s is flat up to 20 kHz",
+  "el": "Διαχείριση σταθμών σε ένα σημείο (Μενού → Διαχείριση σταθμών, διαχειριστές): κάθε σταθμός με την κατάστασή του, τι παίζει και το τελευταίο αντίγραφο ασφαλείας· παύση και εκκίνηση σταθμού· αφαίρεση μόνο αφού γράψετε το όνομά του· οι σταθμοί που αφαιρέθηκαν κρατιούνται και επανέρχονται με ένα κλικ· οριστική διαγραφή των δεδομένων τους ως ξεχωριστό βήμα. Ελληνικά tags από παλιά MP3 (Windows-1253 που διαβάστηκαν ως λατινικά) διορθώνονται μόνα τους. Τα εξώφυλλα στους επιπλέον σταθμούς δείχνουν το σωστό τραγούδι. Ποιότητα του ενσωματωμένου stream (Ρυθμίσεις → Internet streaming): 128 έως 320 kb/s· στα 320 kb/s ο ήχος είναι επίπεδος έως 20 kHz"
  }
 }
