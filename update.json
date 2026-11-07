@@ -1,8 +1,8 @@
 {
- "version": "1.29",
- "date": "2026-11-07",
+ "version": "1.29.1",
+ "date": "2026-11-08",
  "notes": {
-  "en": "Station administration in one place (Menu → Station administration, administrators): every station with its state, what plays and its last backup; pause and start a station; removal only after typing its name; removed stations kept and restored with one click; their data deleted for good as a separate step. Greek tags from old MP3s (Windows-1253 read as Latin) corrected by themselves. Covers on extra stations show the right song. Quality of the built-in stream (Settings → Internet streaming): 128 to 320 kb/s; 320 kb/s is flat up to 20 kHz",
-  "el": "Διαχείριση σταθμών σε ένα σημείο (Μενού → Διαχείριση σταθμών, διαχειριστές): κάθε σταθμός με την κατάστασή του, τι παίζει και το τελευταίο αντίγραφο ασφαλείας· παύση και εκκίνηση σταθμού· αφαίρεση μόνο αφού γράψετε το όνομά του· οι σταθμοί που αφαιρέθηκαν κρατιούνται και επανέρχονται με ένα κλικ· οριστική διαγραφή των δεδομένων τους ως ξεχωριστό βήμα. Ελληνικά tags από παλιά MP3 (Windows-1253 που διαβάστηκαν ως λατινικά) διορθώνονται μόνα τους. Τα εξώφυλλα στους επιπλέον σταθμούς δείχνουν το σωστό τραγούδι. Ποιότητα του ενσωματωμένου stream (Ρυθμίσεις → Internet streaming): 128 έως 320 kb/s· στα 320 kb/s ο ήχος είναι επίπεδος έως 20 kHz"
+  "en": "After an engine restart the server is back on it within seconds (it could wait about 2 minutes with the station silent)",
+  "el": "Μετά από επανεκκίνηση της μηχανής ο server ξανασυνδέεται σε λίγα δευτερόλεπτα (μπορούσε να περιμένει περίπου 2 λεπτά με τον σταθμό σιωπηλό)"
  }
 }
