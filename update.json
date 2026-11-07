@@ -1,8 +1,8 @@
 {
- "version": "1.29.1",
+ "version": "1.30",
  "date": "2026-11-08",
  "notes": {
-  "en": "After an engine restart the server is back on it within seconds (it could wait about 2 minutes with the station silent)",
-  "el": "Μετά από επανεκκίνηση της μηχανής ο server ξανασυνδέεται σε λίγα δευτερόλεπτα (μπορούσε να περιμένει περίπου 2 λεπτά με τον σταθμό σιωπηλό)"
+  "en": "Station administration: every action as a labelled button and a Manage window per station — stop / start, restart one station (the others keep playing), rename, duplicate a station (music setup, hour flows, schedule, jingles, spots and settings; not its history, sound cards or outputs; commercials off; starts paused), backup now and download a copy, remove",
+  "el": "Διαχείριση σταθμών: κάθε ενέργεια με κουμπί με όνομα και ένα παράθυρο «Διαχείριση» για κάθε σταθμό — διακοπή / έναρξη, επανεκκίνηση ενός σταθμού (οι άλλοι συνεχίζουν), μετονομασία, αντίγραφο σταθμού (μουσική οργάνωση, ροές ώρας, πρόγραμμα, jingles, σποτ και ρυθμίσεις· όχι το ιστορικό, οι κάρτες ήχου ή οι έξοδοι· διαφημίσεις απενεργοποιημένες· ξεκινά σε παύση), αντίγραφο ασφαλείας τώρα και λήψη αντιγράφου, αφαίρεση"
  }
 }
