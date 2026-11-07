@@ -1,8 +1,8 @@
 {
- "version": "1.26",
- "date": "2026-11-06",
+ "version": "1.27",
+ "date": "2026-11-07",
  "notes": {
-  "en": "Live assist works again (it switched straight back to AUTO), so do the Mic button, the carts, Record now and Next ad break now with their options; spots get a priority (high / normal / low) for breaks without room for all",
-  "el": "Το Χειροκίνητο λειτουργεί ξανά (γύριζε αμέσως σε Αυτόματο), όπως και το κουμπί Μικρόφωνο, τα carts, η Ηχογράφηση τώρα και το Επόμενο διάλειμμα τώρα με τις επιλογές τους· τα σποτ έχουν προτεραιότητα (υψηλή / κανονική / χαμηλή) για διαλείμματα που δεν τα χωράνε όλα"
+  "en": "Billing list per month (price per airing, per month or for the whole campaign, discount, VAT; CSV for the accountant, PDF per client, invoiced or not) and a stream alarm that listens to the station's streams once a minute and alerts when one is silent or down; Library: add files or whole folders from this computer (or drag them onto the page), besides folders of the music drive",
+  "el": "Λίστα χρεώσεων ανά μήνα (τιμή ανά μετάδοση, ανά μήνα ή για όλη την καμπάνια, έκπτωση, ΦΠΑ· CSV για τον λογιστή, PDF ανά πελάτη, τιμολογημένο ή όχι) και συναγερμός stream που ακούει τα streams του σταθμού κάθε λεπτό και ειδοποιεί όταν κάποιο είναι σιωπηλό ή πεσμένο· Βιβλιοθήκη: προσθήκη αρχείων ή ολόκληρων φακέλων από τον υπολογιστή (ή σύρσιμο πάνω στη σελίδα), εκτός από φακέλους του δίσκου μουσικής"
  }
 }
