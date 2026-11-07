@@ -1,8 +1,8 @@
 {
- "version": "1.30",
+ "version": "1.30.1",
  "date": "2026-11-08",
  "notes": {
-  "en": "Station administration: every action as a labelled button and a Manage window per station — stop / start, restart one station (the others keep playing), rename, duplicate a station (music setup, hour flows, schedule, jingles, spots and settings; not its history, sound cards or outputs; commercials off; starts paused), backup now and download a copy, remove",
-  "el": "Διαχείριση σταθμών: κάθε ενέργεια με κουμπί με όνομα και ένα παράθυρο «Διαχείριση» για κάθε σταθμό — διακοπή / έναρξη, επανεκκίνηση ενός σταθμού (οι άλλοι συνεχίζουν), μετονομασία, αντίγραφο σταθμού (μουσική οργάνωση, ροές ώρας, πρόγραμμα, jingles, σποτ και ρυθμίσεις· όχι το ιστορικό, οι κάρτες ήχου ή οι έξοδοι· διαφημίσεις απενεργοποιημένες· ξεκινά σε παύση), αντίγραφο ασφαλείας τώρα και λήψη αντιγράφου, αφαίρεση"
+  "en": "Clearer words for deleting a removed station's data (“Delete permanently”), and the confirmation says what is erased",
+  "el": "Πιο καθαρή διατύπωση για τη διαγραφή των δεδομένων ενός σταθμού που αφαιρέθηκε («Οριστική διαγραφή»), και η επιβεβαίωση λέει τι σβήνεται"
  }
 }
