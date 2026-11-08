@@ -1,8 +1,8 @@
 {
- "version": "1.32",
+ "version": "1.33",
  "date": "2026-11-08",
  "notes": {
-  "en": "Aether Sound becomes a full processor: Simple and Advanced views; per band threshold, ratio, attack, release, knee, gain, limiter, width, bypass and solo; adjustable crossovers; a 5-band parametric equaliser; bass in mono and a bass enhancer; a 4x oversampled final clipper; FM mode; built-in presets (Flat, Natural, Pop, Talk, Loud, FM station) and your own, with export and import; A/B; live spectrum before and after",
-  "el": "Το Aether Sound γίνεται πλήρης επεξεργαστής: Απλή και Προχωρημένη προβολή· ανά ζώνη κατώφλι, λόγος, attack, release, knee, gain, limiter, εύρος, παράκαμψη και solo· ρυθμιζόμενα σημεία διαχωρισμού· παραμετρικός ισοσταθμιστής 5 ζωνών· μπάσα σε mono και ενίσχυση μπάσων· τελικός clipper με 4x υπερδειγματοληψία· λειτουργία FM· ενσωματωμένες προεπιλογές (Επίπεδο, Φυσικό, Pop, Ομιλία, Δυνατό, Σταθμός FM) και δικές σας, με εξαγωγή και εισαγωγή· A/B· ζωντανό φάσμα πριν και μετά"
+  "en": "Aether Sound with 5, 7 or 9 bands (Advanced → Number of bands): the sound is carried over, the bands still add back up flat. Settings: the sound processor in one place (Settings → Sound processor: none, Aether Sound or Stereo Tool, with only the chosen one's settings); Sound keeps the cards, the mic and fades, limiter and silence. Aether Sound: the band limiter holds each wave (no distortion in the bass), the final clipper only rounds the highest peaks",
+  "el": "Aether Sound με 5, 7 ή 9 ζώνες (Προχωρημένη → Αριθμός ζωνών): ο ήχος μεταφέρεται, οι ζώνες ξαναενώνονται πάντα επίπεδα. Ρυθμίσεις: ο επεξεργαστής ήχου σε ένα σημείο (Ρυθμίσεις → Επεξεργαστής ήχου: κανένας, Aether Sound ή Stereo Tool, μόνο με τις ρυθμίσεις του επιλεγμένου)· ο Ήχος κρατά τις κάρτες, το μικρόφωνο και μεταβάσεις, limiter και σιωπή. Aether Sound: ο limiter κάθε ζώνης κρατά σταθερή τη στάθμη σε όλο το κύμα (χωρίς παραμόρφωση στα μπάσα), ο τελικός clipper στρογγυλεύει μόνο τις ψηλότερες κορυφές"
  }
 }
