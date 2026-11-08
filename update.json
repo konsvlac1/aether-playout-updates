@@ -1,8 +1,8 @@
 {
- "version": "1.33.2",
+ "version": "1.33.3",
  "date": "2026-11-08",
  "notes": {
-  "en": "Week plan in blocks of hours: “Hours from–to” puts a flow in a range (e.g. every day 00:00–02:00, Monday to Friday 06:00–10:00), “Edit a block” changes a block's hours, flow or days, and the plan shows each block with its times. Time announcements moved to Commercials → Time announcements (next to Sponsorships); in Settings only when Commercials is switched off. Aether Sound: the number of bands is saved for the station and every preset (built-in or own) is used with it",
-  "el": "Εβδομαδιαίο πρόγραμμα σε μπλοκ ωρών: το «Ώρες από–έως» βάζει μια ροή σε ένα διάστημα (π.χ. κάθε μέρα 00:00–02:00, Δευτέρα έως Παρασκευή 06:00–10:00), η «Επεξεργασία μπλοκ» αλλάζει τις ώρες, τη ροή ή τις ημέρες ενός μπλοκ, και το πρόγραμμα δείχνει κάθε μπλοκ με τις ώρες του. Οι αναγγελίες ώρας μεταφέρθηκαν στις Διαφημίσεις → Αναγγελίες ώρας (δίπλα στις Χορηγίες)· στις Ρυθμίσεις μόνο όταν οι Διαφημίσεις είναι απενεργοποιημένες. Aether Sound: ο αριθμός ζωνών αποθηκεύεται για τον σταθμό και κάθε προεπιλογή (ενσωματωμένη ή δική σας) χρησιμοποιείται με αυτόν"
+  "en": "Week plan drawn like a calendar: each block of hours is one cell spanning its hours, with its times and flow (clicking and dragging still works hour by hour)",
+  "el": "Το εβδομαδιαίο πρόγραμμα σχεδιάζεται σαν ημερολόγιο: κάθε μπλοκ ωρών είναι ένα κελί που καλύπτει τις ώρες του, με τις ώρες και τη ροή του (το κλικ και το σύρσιμο δουλεύουν ακόμα ώρα προς ώρα)"
  }
 }
