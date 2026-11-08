@@ -1,8 +1,8 @@
 {
- "version": "1.33.4",
+ "version": "1.34",
  "date": "2026-11-08",
  "notes": {
-  "en": "On Air uses the full screen width, with clearer Now Playing and countdowns, easier-to-read queue entries and visible queue actions on narrow screens; dark theme, dialog focus and keyboard handling improved",
-  "el": "Η οθόνη On Air αξιοποιεί όλο το πλάτος, με πιο ξεκάθαρο το τρέχον τραγούδι και τις αντίστροφες μετρήσεις, πιο ευανάγνωστη ουρά και ορατά κουμπιά ενεργειών σε στενές οθόνες· βελτιώσεις στο σκοτεινό θέμα, την εστίαση στα παράθυρα διαλόγου και τον χειρισμό με το πληκτρολόγιο"
+  "en": "Aether Sound: new Broadcast Warm and Broadcast Punch presets, controlled bass harmonics, protected stereo widening, live stereo correlation and width meters; preset imports validate filter frequencies and parameter ranges",
+  "el": "Aether Sound: νέα presets Ραδιοφωνικός ζεστός ήχος και Ραδιοφωνικός δυναμικός ήχος, ελεγχόμενες αρμονικές μπάσων, προστατευμένη στερεοφωνική διεύρυνση και ζωντανά όργανα συσχέτισης και εύρους· έλεγχος συχνοτήτων φίλτρων και ορίων παραμέτρων κατά την εισαγωγή presets"
  }
 }
