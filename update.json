@@ -1,8 +1,8 @@
 {
- "version": "1.31",
+ "version": "1.32",
  "date": "2026-11-08",
  "notes": {
-  "en": "Loudness: true-peak limiter with look-ahead (−1 dBTP: clean peaks, no clipping after MP3), target presets (−23 … −12 LUFS; levels recalculated at once), a flat leveller (automatic volume), level per kind (jingles, spots, voice tracks, time), the program's loudness on On Air and per hour with alarms, microphone leveller and noise gate; damaged audio silenced on air and listed under Library → Problem files. Aether Sound, the built-in sound processor (Settings → Sound): five bands that keep the tonal balance, density, bass, presence, brilliance, stereo width, FM mode; Stereo Tool stays available",
-  "el": "Ακουστότητα: limiter πραγματικής κορυφής με look-ahead (−1 dBTP: καθαρές κορυφές, χωρίς παραμόρφωση μετά το MP3), έτοιμοι στόχοι (−23 … −12 LUFS· οι στάθμες υπολογίζονται αμέσως ξανά), επίπεδος εξισορροπητής (αυτόματη ένταση), στάθμη ανά είδος (jingles, σποτ, voice tracks, ώρα), η ακουστότητα του προγράμματος στον αέρα και ανά ώρα με ειδοποιήσεις, εξισορροπητής μικροφώνου και πύλη θορύβου· ο χαλασμένος ήχος σιγάζεται στον αέρα και εμφανίζεται στη Βιβλιοθήκη → Προβληματικά αρχεία. Aether Sound, ο ενσωματωμένος επεξεργαστής ήχου (Ρυθμίσεις → Ήχος): πέντε ζώνες που κρατούν την τονική ισορροπία, πυκνότητα, μπάσα, παρουσία, λάμψη, στερεοφωνικό εύρος, λειτουργία FM· το Stereo Tool παραμένει διαθέσιμο"
+  "en": "Aether Sound becomes a full processor: Simple and Advanced views; per band threshold, ratio, attack, release, knee, gain, limiter, width, bypass and solo; adjustable crossovers; a 5-band parametric equaliser; bass in mono and a bass enhancer; a 4x oversampled final clipper; FM mode; built-in presets (Flat, Natural, Pop, Talk, Loud, FM station) and your own, with export and import; A/B; live spectrum before and after",
+  "el": "Το Aether Sound γίνεται πλήρης επεξεργαστής: Απλή και Προχωρημένη προβολή· ανά ζώνη κατώφλι, λόγος, attack, release, knee, gain, limiter, εύρος, παράκαμψη και solo· ρυθμιζόμενα σημεία διαχωρισμού· παραμετρικός ισοσταθμιστής 5 ζωνών· μπάσα σε mono και ενίσχυση μπάσων· τελικός clipper με 4x υπερδειγματοληψία· λειτουργία FM· ενσωματωμένες προεπιλογές (Επίπεδο, Φυσικό, Pop, Ομιλία, Δυνατό, Σταθμός FM) και δικές σας, με εξαγωγή και εισαγωγή· A/B· ζωντανό φάσμα πριν και μετά"
  }
 }
