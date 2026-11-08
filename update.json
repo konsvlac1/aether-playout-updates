@@ -1,8 +1,8 @@
 {
- "version": "1.33.3",
+ "version": "1.33.4",
  "date": "2026-11-08",
  "notes": {
-  "en": "Week plan drawn like a calendar: each block of hours is one cell spanning its hours, with its times and flow (clicking and dragging still works hour by hour)",
-  "el": "Το εβδομαδιαίο πρόγραμμα σχεδιάζεται σαν ημερολόγιο: κάθε μπλοκ ωρών είναι ένα κελί που καλύπτει τις ώρες του, με τις ώρες και τη ροή του (το κλικ και το σύρσιμο δουλεύουν ακόμα ώρα προς ώρα)"
+  "en": "On Air uses the full screen width, with clearer Now Playing and countdowns, easier-to-read queue entries and visible queue actions on narrow screens; dark theme, dialog focus and keyboard handling improved",
+  "el": "Η οθόνη On Air αξιοποιεί όλο το πλάτος, με πιο ξεκάθαρο το τρέχον τραγούδι και τις αντίστροφες μετρήσεις, πιο ευανάγνωστη ουρά και ορατά κουμπιά ενεργειών σε στενές οθόνες· βελτιώσεις στο σκοτεινό θέμα, την εστίαση στα παράθυρα διαλόγου και τον χειρισμό με το πληκτρολόγιο"
  }
 }
