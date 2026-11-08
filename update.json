@@ -2,7 +2,7 @@
  "version": "1.34",
  "date": "2026-11-08",
  "notes": {
-  "en": "Aether Sound: new Broadcast Warm and Broadcast Punch presets, controlled bass harmonics, protected stereo widening, live stereo correlation and width meters; preset imports validate filter frequencies and parameter ranges",
-  "el": "Aether Sound: νέα presets Ραδιοφωνικός ζεστός ήχος και Ραδιοφωνικός δυναμικός ήχος, ελεγχόμενες αρμονικές μπάσων, προστατευμένη στερεοφωνική διεύρυνση και ζωντανά όργανα συσχέτισης και εύρους· έλεγχος συχνοτήτων φίλτρων και ορίων παραμέτρων κατά την εισαγωγή presets"
+  "en": "Aether Sound: new Broadcast Warm and Broadcast Punch presets, controlled bass harmonics, protected stereo widening, live stereo correlation and width meters; preset imports validate filter frequencies and parameter ranges; installation station settings moved to More → Station administration",
+  "el": "Aether Sound: νέα presets Ραδιοφωνικός ζεστός ήχος και Ραδιοφωνικός δυναμικός ήχος, ελεγχόμενες αρμονικές μπάσων, προστατευμένη στερεοφωνική διεύρυνση και ζωντανά όργανα συσχέτισης και εύρους· έλεγχος συχνοτήτων φίλτρων και ορίων παραμέτρων κατά την εισαγωγή presets· οι ρυθμίσεις σταθμών της εγκατάστασης μεταφέρθηκαν στο Περισσότερα → Διαχείριση σταθμών"
  }
 }
