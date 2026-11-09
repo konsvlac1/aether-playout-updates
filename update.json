@@ -1,8 +1,8 @@
 {
- "version": "1.34.1",
- "date": "2026-11-09",
+ "version": "1.35",
+ "date": "2026-11-10",
  "notes": {
-  "en": "Fixed-time templates: when one comes up before its minute, a song goes in front of it (like an early ad break) — in 1.34 the station could go silent until the template's minute",
-  "el": "Σταθερά ένθετα: όταν ένα έρχεται πριν από το λεπτό του, μπαίνει ένα τραγούδι μπροστά του (όπως σε ένα πρόωρο διαφημιστικό διάλειμμα) — στην 1.34 ο σταθμός μπορούσε να σιωπήσει μέχρι το λεπτό του ενθέτου"
+  "en": "Aether Sound professional stages: Auto Bass and Auto Highs (each song brought to the station's balance, holding in silence and speech), a stereo enhancer (narrow recordings widened, mono untouched), phase rotator, gated band compressors, program-dependent release, output loudness to the target; 12 new presets by format (Hits, Rock, Dance, Urban, Greek music, Classic hits, AC, Jazz & Classical, News & Talk, Sports, Streaming, FM loud)",
+  "el": "Επαγγελματικά στάδια στο Aether Sound: αυτόματα μπάσα και πρίμα (κάθε τραγούδι στην ισορροπία του σταθμού, σταθερά στη σιωπή και στην ομιλία), ενισχυτής στερεοφωνίας (οι στενές ηχογραφήσεις ανοίγουν, το mono δεν αλλάζει), περιστροφέας φάσης, πύλη στους συμπιεστές των ζωνών, release ανάλογα με το πρόγραμμα, ακουστότητα εξόδου στον στόχο· 12 νέες προεπιλογές ανά format (Hits, Rock, Dance, Urban, Ελληνική μουσική, Κλασικές επιτυχίες, AC, Jazz και κλασική, Ειδήσεις και ομιλία, Αθλητικά, Streaming, FM δυνατό)"
  }
 }
