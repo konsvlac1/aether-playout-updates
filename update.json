@@ -1,8 +1,8 @@
 {
- "version": "1.34",
+ "version": "1.34.1",
  "date": "2026-11-09",
  "notes": {
-  "en": "Aether Sound: Broadcast Warm and Broadcast Punch, controlled bass harmonics and stereo protection, Apply Sound with live active-preset status and readable preset names. Station settings moved to More → Station Administration. Fixed late templates, day/week-plan validation, time announcements and confirmed manual ad-break actions.",
-  "el": "Aether Sound: Broadcast Warm και Broadcast Punch, ελεγχόμενες αρμονικές μπάσων και στερεοφωνική προστασία, Εφαρμογή ήχου με ζωντανή ένδειξη ενεργού preset και ευανάγνωστα ονόματα. Οι ρυθμίσεις σταθμών μεταφέρθηκαν στο Περισσότερα → Διαχείριση σταθμών. Διορθώσεις σε καθυστερημένα πρότυπα, έλεγχο ημερών και εβδομαδιαίου προγράμματος, ανακοινώσεις ώρας και επιβεβαιωμένες χειροκίνητες εντολές διαλειμμάτων."
+  "en": "Fixed-time templates: when one comes up before its minute, a song goes in front of it (like an early ad break) — in 1.34 the station could go silent until the template's minute",
+  "el": "Σταθερά ένθετα: όταν ένα έρχεται πριν από το λεπτό του, μπαίνει ένα τραγούδι μπροστά του (όπως σε ένα πρόωρο διαφημιστικό διάλειμμα) — στην 1.34 ο σταθμός μπορούσε να σιωπήσει μέχρι το λεπτό του ενθέτου"
  }
 }
