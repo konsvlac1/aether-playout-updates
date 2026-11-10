@@ -1,8 +1,8 @@
 {
- "version": "1.37",
+ "version": "1.38",
  "date": "2026-11-10",
  "notes": {
-  "en": "Microphone voice EQ: low cut (80 Hz by default: rumble, knocks, popping “p”s), presence at 4 kHz and a de-esser for sharp “s” sounds. Aether Sound: a dynamic equaliser before the bands, with harshness control (2–5 kHz) and a de-esser (5–9 kHz) that act only while that band sticks out of the sound (on in the presets by format, with live meters)",
-  "el": "Ισοσταθμιστής φωνής στο μικρόφωνο: κόψιμο χαμηλών (80 Hz από προεπιλογή: βουητό, χτυπήματα, «π» που φουσκώνουν), παρουσία στα 4 kHz και de-esser για τα έντονα «σ». Aether Sound: δυναμικός ισοσταθμιστής πριν από τις ζώνες, με έλεγχο σκληρότητας (2–5 kHz) και de-esser (5–9 kHz) που ενεργούν μόνο όσο η ζώνη ξεχωρίζει από τον ήχο (ενεργά στις προεπιλογές ανά format, με ενδείξεις σε πραγματικό χρόνο)"
+  "en": "Aether Sound: a declipper rebuilds the flattened peaks of clipped recordings (loud CDs, overdriven transfers) before the processing — off in the presets, a switch in Simple and Advanced, with a live meter",
+  "el": "Aether Sound: αποκατάσταση ψαλιδισμένων κορυφών — ξαναχτίζει τις «κομμένες» κορυφές των ψαλιδισμένων ηχογραφήσεων (δυνατά CD, παραμορφωμένες μεταφορές) πριν από την επεξεργασία· κλειστή στις προεπιλογές, διακόπτης στο Απλό και στο Προχωρημένο, με ένδειξη σε πραγματικό χρόνο"
  }
 }
