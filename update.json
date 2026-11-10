@@ -1,8 +1,8 @@
 {
- "version": "1.39",
+ "version": "1.40",
  "date": "2026-11-10",
  "notes": {
-  "en": "MPX output: the main card can play the whole FM signal at 192 kHz for a transmitter with an MPX input — pre-emphasis, 15 kHz filter, peak limiter, stereo pilot and subcarrier, and Aether's own RDS (name, programme type, AF, clock time, RadioText with RadioText+ artist and title; Greek in Latin letters), with an MPX power meter and optional BS.412 limiter",
-  "el": "Έξοδος MPX: η κύρια κάρτα μπορεί να παίζει όλο το σήμα FM στα 192 kHz για πομπό με είσοδο MPX — προέμφαση, φίλτρο 15 kHz, περιοριστής κορυφών, πιλότος και υποφέρουσα στερεοφωνίας, και δικό του RDS του Aether (όνομα, είδος προγράμματος, AF, ώρα, RadioText με καλλιτέχνη και τίτλο στο RadioText+· τα ελληνικά με λατινικούς χαρακτήρες), με μετρητή ισχύος MPX και προαιρετικό περιοριστή BS.412"
+  "en": "MPX reliability: direct hardware verification, failed-card status and reconnect, reconstruction headroom, conservative BS.412 power limiting, accurate RDS clock-time scheduling and safe RadioText templates. Broadcast Warm and Broadcast Punch retuned for fuller bass, preserved transients and controlled stereo depth.",
+  "el": "Αξιοπιστία MPX: έλεγχος άμεσης πρόσβασης στην κάρτα, ένδειξη βλάβης και επανασύνδεση, περιθώριο ανακατασκευής κορυφών, συντηρητικός περιορισμός ισχύος BS.412, ακριβής χρονισμός ώρας RDS και ασφαλή πρότυπα RadioText. Τα Broadcast Warm και Broadcast Punch ρυθμίστηκαν για πληρέστερα μπάσα, διατήρηση των μεταβατικών και ελεγχόμενο στερεοφωνικό βάθος."
  }
 }
