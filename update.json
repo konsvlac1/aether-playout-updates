@@ -1,8 +1,8 @@
 {
- "version": "1.36",
+ "version": "1.37",
  "date": "2026-11-10",
  "notes": {
-  "en": "Aether Sound: preview a sound on the headphone card before it goes on air (changes heard at once), fair A/B at matched loudness, the internet streams' own sound and loudness (e.g. clean −14 LUFS while FM stays dense), automatic switching (speech preset for the mic, voice tracks, time and rebroadcasts; a weekly schedule of presets) with 1 s crossfades, adaptive density (dense masters compressed less)",
-  "el": "Aether Sound: προακρόαση ενός ήχου στα ακουστικά πριν βγει στον αέρα (οι αλλαγές ακούγονται αμέσως), δίκαιο A/B σε ίδια ακουστότητα, δικός ήχος και ακουστότητα για τα internet streams (π.χ. καθαρό −14 LUFS ενώ το FM μένει πυκνό), αυτόματη εναλλαγή (προεπιλογή ομιλίας για μικρόφωνο, voice tracks, ώρα και αναμεταδόσεις· εβδομαδιαίο πρόγραμμα προεπιλογών) με crossfade 1 δευτερολέπτου, προσαρμοστική πυκνότητα (τα πυκνά masters συμπιέζονται λιγότερο)"
+  "en": "Microphone voice EQ: low cut (80 Hz by default: rumble, knocks, popping “p”s), presence at 4 kHz and a de-esser for sharp “s” sounds. Aether Sound: a dynamic equaliser before the bands, with harshness control (2–5 kHz) and a de-esser (5–9 kHz) that act only while that band sticks out of the sound (on in the presets by format, with live meters)",
+  "el": "Ισοσταθμιστής φωνής στο μικρόφωνο: κόψιμο χαμηλών (80 Hz από προεπιλογή: βουητό, χτυπήματα, «π» που φουσκώνουν), παρουσία στα 4 kHz και de-esser για τα έντονα «σ». Aether Sound: δυναμικός ισοσταθμιστής πριν από τις ζώνες, με έλεγχο σκληρότητας (2–5 kHz) και de-esser (5–9 kHz) που ενεργούν μόνο όσο η ζώνη ξεχωρίζει από τον ήχο (ενεργά στις προεπιλογές ανά format, με ενδείξεις σε πραγματικό χρόνο)"
  }
 }
