@@ -1,8 +1,8 @@
 {
- "version": "1.35",
+ "version": "1.36",
  "date": "2026-11-10",
  "notes": {
-  "en": "Aether Sound professional stages: Auto Bass and Auto Highs (each song brought to the station's balance, holding in silence and speech), a stereo enhancer (narrow recordings widened, mono untouched), phase rotator, gated band compressors, program-dependent release, output loudness to the target; 12 new presets by format (Hits, Rock, Dance, Urban, Greek music, Classic hits, AC, Jazz & Classical, News & Talk, Sports, Streaming, FM loud)",
-  "el": "Επαγγελματικά στάδια στο Aether Sound: αυτόματα μπάσα και πρίμα (κάθε τραγούδι στην ισορροπία του σταθμού, σταθερά στη σιωπή και στην ομιλία), ενισχυτής στερεοφωνίας (οι στενές ηχογραφήσεις ανοίγουν, το mono δεν αλλάζει), περιστροφέας φάσης, πύλη στους συμπιεστές των ζωνών, release ανάλογα με το πρόγραμμα, ακουστότητα εξόδου στον στόχο· 12 νέες προεπιλογές ανά format (Hits, Rock, Dance, Urban, Ελληνική μουσική, Κλασικές επιτυχίες, AC, Jazz και κλασική, Ειδήσεις και ομιλία, Αθλητικά, Streaming, FM δυνατό)"
+  "en": "Aether Sound: preview a sound on the headphone card before it goes on air (changes heard at once), fair A/B at matched loudness, the internet streams' own sound and loudness (e.g. clean −14 LUFS while FM stays dense), automatic switching (speech preset for the mic, voice tracks, time and rebroadcasts; a weekly schedule of presets) with 1 s crossfades, adaptive density (dense masters compressed less)",
+  "el": "Aether Sound: προακρόαση ενός ήχου στα ακουστικά πριν βγει στον αέρα (οι αλλαγές ακούγονται αμέσως), δίκαιο A/B σε ίδια ακουστότητα, δικός ήχος και ακουστότητα για τα internet streams (π.χ. καθαρό −14 LUFS ενώ το FM μένει πυκνό), αυτόματη εναλλαγή (προεπιλογή ομιλίας για μικρόφωνο, voice tracks, ώρα και αναμεταδόσεις· εβδομαδιαίο πρόγραμμα προεπιλογών) με crossfade 1 δευτερολέπτου, προσαρμοστική πυκνότητα (τα πυκνά masters συμπιέζονται λιγότερο)"
  }
 }
