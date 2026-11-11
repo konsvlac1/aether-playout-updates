@@ -1,8 +1,8 @@
 {
- "version": "1.40",
- "date": "2026-11-10",
+ "version": "1.40.1",
+ "date": "2026-11-11",
  "notes": {
-  "en": "MPX reliability: direct hardware verification, failed-card status and reconnect, reconstruction headroom, conservative BS.412 power limiting, accurate RDS clock-time scheduling and safe RadioText templates. Broadcast Warm and Broadcast Punch retuned for fuller bass, preserved transients and controlled stereo depth.",
-  "el": "Αξιοπιστία MPX: έλεγχος άμεσης πρόσβασης στην κάρτα, ένδειξη βλάβης και επανασύνδεση, περιθώριο ανακατασκευής κορυφών, συντηρητικός περιορισμός ισχύος BS.412, ακριβής χρονισμός ώρας RDS και ασφαλή πρότυπα RadioText. Τα Broadcast Warm και Broadcast Punch ρυθμίστηκαν για πληρέστερα μπάσα, διατήρηση των μεταβατικών και ελεγχόμενο στερεοφωνικό βάθος."
+  "en": "Aether Sound without the distortion: every preset reviewed and measured with notched music — bass enhancer off everywhere (it filled the bass with harmonics 25–36 dB under the music), a clean look-ahead final limiter instead of the clipper (up to 35 dB cleaner highs), smoother compressor and de-esser gain, no attacks faster than 25/15/10/6/4 ms; the number of bands is automatic (each preset brings its own 5, 7 or 9; a station can still force one). A station that kept an unchanged older copy of its preset gets the reviewed one; “↺ Back to the preset” drops own changes. Fixes to 1.40: a saved MPX power limit no longer blocks other settings; MPX plays again on plughw:, front: and sysdefault: cards (sound servers stay refused)",
+  "el": "Aether Sound χωρίς παραμόρφωση: όλα τα presets ελέγχθηκαν και μετρήθηκαν με μουσική με εγκοπές — ο ενισχυτής μπάσων κλειστός παντού (γέμιζε τα μπάσα με αρμονικές 25–36 dB κάτω από τη μουσική), καθαρός τελικός περιοριστής με πρόβλεψη αντί για clipper (πρίμα έως 35 dB καθαρότερα), πιο ομαλή κίνηση στους συμπιεστές και στο de-esser, κανένα attack πιο γρήγορο από 25/15/10/6/4 ms· ο αριθμός ζωνών γίνεται αυτόματα (κάθε preset φέρνει τις δικές του 5, 7 ή 9· ο σταθμός μπορεί ακόμα να ορίσει μία). Ένας σταθμός που κράτησε αμετάβλητο παλιό αντίγραφο του preset του παίρνει το νέο· το «↺ Επιστροφή στο preset» αφαιρεί τις δικές σας αλλαγές. Διορθώσεις του 1.40: ένα αποθηκευμένο όριο ισχύος MPX δεν μπλοκάρει πια τις άλλες ρυθμίσεις· το MPX παίζει ξανά σε κάρτες plughw:, front: και sysdefault: (οι διακομιστές ήχου εξακολουθούν να απορρίπτονται)"
  }
 }
