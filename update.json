@@ -1,8 +1,8 @@
 {
- "version": "1.47",
+ "version": "1.48",
  "date": "2026-11-14",
  "notes": {
-  "en": "Aether Sound: a new preset, FM Power (Delivery), for FM stations that want the big, dense sound of the strong FM processors: FM Loud's nine bands with the output loudness measured after the final limiter, more bass and air and warm low mids. Measured against Stereo Tool on the same five songs: the same tonal balance within 0.1 dB, a similar density, 1.6 dB quieter, and much cleaner (mids 12 dB, highs 30 dB less distortion). Reaching Stereo Tool's full loudness took more distortion than Stereo Tool has, so that is left for a later version",
-  "el": "Aether Sound: νέο preset, FM Power (Μετάδοση), για σταθμούς FM που θέλουν τον μεγάλο, πυκνό ήχο των δυνατών επεξεργαστών FM: οι εννέα ζώνες του FM δυνατό με την ένταση εξόδου μετρημένη μετά τον τελικό limiter, περισσότερα μπάσα και αέρα και ζεστά χαμηλά μεσαία. Μετρημένο απέναντι στο Stereo Tool στα ίδια πέντε τραγούδια: ίδια τονική ισορροπία μέσα σε 0,1 dB, παρόμοια πυκνότητα, 1,6 dB πιο σιγανά, και πολύ πιο καθαρά (μεσαία 12 dB, πρίμα 30 dB λιγότερη παραμόρφωση). Η πλήρης ένταση του Stereo Tool ήθελε περισσότερη παραμόρφωση από όση έχει το ίδιο, γι' αυτό μένει για επόμενη έκδοση"
+  "en": "FM transmitter mode: a new high-frequency limiter. It looks 12 ms ahead at what the transmitter's pre-emphasis makes of the program and turns only the highest highs down, smoothly, instead of stepping the top bands down instantly. Measured on library songs at −9 LUFS: highs 30–40 dB cleaner, the transmitter's ceiling held better (at most 5–6 dB over instead of 8–10), as bright as before. On Air: the Mic button no longer jumps back for a moment after a click (the live status could still show the old state), so one click is always enough",
+  "el": "Λειτουργία πομπού FM: νέος περιοριστής πρίμων. Βλέπει 12 ms μπροστά τι κάνει η προέμφαση του πομπού στο πρόγραμμα και χαμηλώνει μόνο τα πιο ψηλά πρίμα, ομαλά, αντί να κατεβάζει απότομα τις πάνω ζώνες. Μετρημένο σε τραγούδια της βιβλιοθήκης στα −9 LUFS: πρίμα 30–40 dB πιο καθαρά, το όριο του πομπού κρατιέται καλύτερα (το πολύ 5–6 dB πάνω αντί για 8–10), το ίδιο φωτεινά. On Air: το κουμπί Μικρόφωνο δεν γυρίζει πια πίσω για μια στιγμή μετά το κλικ (η ζωντανή κατάσταση μπορούσε να δείχνει ακόμη την παλιά), οπότε ένα κλικ φτάνει πάντα"
  }
 }
