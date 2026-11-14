@@ -1,8 +1,8 @@
 {
- "version": "1.54",
- "date": "2026-11-14",
+ "version": "1.55",
+ "date": "2026-11-15",
  "notes": {
-  "en": "Aether Sound: Auto EQ is on in FM Power, FM Rock, FM Smooth, Bass and Classic — every song comes out with the same balance in every band. Measured on 7 full-length library songs played back to back: the differences between songs in bass, low mids and air are 35–46 % smaller, the preset's own tone stays, no distortion. A station that edited its sound keeps it as it is: tick Auto EQ in the sound editor (Advanced) to have it",
-  "el": "Aether Sound: το Αυτόματο EQ είναι ενεργό στα FM Power, FM Rock, FM Smooth, Bass και Classic — κάθε τραγούδι βγαίνει με την ίδια ισορροπία σε κάθε ζώνη. Μετρημένο σε 7 ολόκληρα τραγούδια της βιβλιοθήκης στη σειρά: οι διαφορές ανάμεσα στα τραγούδια σε μπάσα, χαμηλομεσαία και αέρα είναι 35–46 % μικρότερες, ο ήχος του preset μένει ίδιος, χωρίς παραμόρφωση. Ένας σταθμός που έχει αλλάξει τον ήχο του τον κρατά όπως είναι: τσεκάρετε το Αυτόματο EQ στον επεξεργαστή ήχου (Για προχωρημένους) για να το έχετε"
+  "en": "Aether Sound: the speech presets (Talk / News, Sports) now reach the station's loudness target too. Measured on real speech at −9 LUFS they stopped 2 dB under the music; now a presenter is 1.2 dB louder (−10.1 / −9.9 LUFS instead of −11.3 / −11.1) and still much cleaner than a typical loud FM processor on the same speech. Limiter speed has a new middle step, Balanced, which the speech presets use (kinder to a voice than Fast). Measured and not taken for speech: the fast limiter (0.3 dB more for a rougher bass), “More” and Punch",
+  "el": "Aether Sound: τα presets ομιλίας (Ομιλία / Ειδήσεις, Sports) φτάνουν πλέον κι αυτά τον στόχο έντασης του σταθμού. Μετρημένα σε πραγματική ομιλία στα −9 LUFS σταματούσαν 2 dB κάτω από τη μουσική· τώρα ο εκφωνητής είναι 1,2 dB πιο δυνατά (−10,1 / −9,9 LUFS αντί για −11,3 / −11,1) και ακόμη πολύ πιο καθαρά από έναν τυπικό δυνατό επεξεργαστή FM στην ίδια ομιλία. Η Ταχύτητα περιοριστή έχει νέο μεσαίο βήμα, Ισορροπημένος, που χρησιμοποιούν τα presets ομιλίας (πιο ήπιο για τη φωνή από το Γρήγορος). Μετρήθηκαν και δεν μπήκαν για την ομιλία: ο γρήγορος περιοριστής (0,3 dB περισσότερο με πιο τραχιά μπάσα), το «Περισσότερο» και το Punch"
  }
 }
