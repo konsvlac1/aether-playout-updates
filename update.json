@@ -1,8 +1,8 @@
 {
- "version": "1.58",
- "date": "2026-11-16",
+ "version": "1.59",
+ "date": "2026-11-22",
  "notes": {
-  "en": "On Air queue editing: Add, Insert after the selected item, and Remove from the queue while keeping the library file. Queue next leaves the current song playing; Play now waits for the engine to confirm the new queue before advancing. Reliability fixes for stalled stream changes, sound card recovery, AAC recordings and the logger, scheduled AUTO mode, large-library rotation, database restore, invalid event times and disabled commercial spots. Stereo Tool editing is restricted to administrators. The Studio screen clearly shows when live status is unavailable",
-  "el": "Επεξεργασία ουράς On Air: Προσθήκη, Εισαγωγή μετά το επιλεγμένο στοιχείο και Αφαίρεση από την ουρά, με διατήρηση του αρχείου στη βιβλιοθήκη. Το Επόμενο στην ουρά αφήνει το τρέχον τραγούδι να συνεχίσει· η Αναπαραγωγή τώρα περιμένει την επιβεβαίωση της νέας ουράς από τη μηχανή πριν προχωρήσει. Διορθώσεις αξιοπιστίας για αλλαγές σε κολλημένες συνδέσεις μετάδοσης, επανασύνδεση κάρτας ήχου, εγγραφές AAC και καταγραφικό, προγραμματισμένη λειτουργία AUTO, επιλογή από μεγάλες βιβλιοθήκες, επαναφορά βάσης, μη έγκυρες ώρες ενεργειών και απενεργοποιημένα διαφημιστικά. Η επεξεργασία Stereo Tool επιτρέπεται μόνο στους διαχειριστές. Η οθόνη Studio δείχνει καθαρά πότε δεν υπάρχει ζωντανή ενημέρωση"
+  "en": "Aether Sound: steadier levels through quiet passages and pauses. The input leveller and output loudness control now hold both their gain and their reference during silence and intentional ducking, preventing a volume surge when the music returns. The correction applies to every preset, including FM Rock. Changing the station's loudness target also updates the gain of upcoming queue items; the current song, play history and voice-track mixes keep their existing levels",
+  "el": "Aether Sound: σταθερότερη στάθμη στα ήσυχα σημεία και στις παύσεις. Ο εξισορροπητής εισόδου και ο έλεγχος τελικής ακουστότητας διατηρούν τόσο την ενίσχυση όσο και την αναφορά τους στη σιωπή και στο σκόπιμο χαμήλωμα της μουσικής, ώστε η επιστροφή της να μην προκαλεί απότομη αύξηση έντασης. Η διόρθωση ισχύει για όλα τα preset, μαζί με το FM Rock. Η αλλαγή του στόχου ακουστότητας του σταθμού ενημερώνει και τη στάθμη των επόμενων στοιχείων της ουράς· το τραγούδι που παίζει, το ιστορικό και οι μίξεις voice track διατηρούν τις στάθμες τους"
  }
 }
