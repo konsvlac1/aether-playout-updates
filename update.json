@@ -1,8 +1,8 @@
 {
- "version": "1.62.2",
+ "version": "1.63",
  "date": "2026-11-22",
  "notes": {
-  "en": "Aether Sound music presets now use a modest stereo opening, based on level-matched analysis of Patras station streams. The stereo enhancer is limited to 2 dB, with mono-safety protection retained. Speech and clean-stream voicings keep their existing width.",
-  "el": "Τα μουσικά preset του Aether Sound έχουν πλέον λίγο πιο ανοιχτή στερεοφωνική εικόνα, με βάση ανάλυση σταθμών της Πάτρας σε αντιστοιχισμένη στάθμη. Η στερεοφωνική ενίσχυση περιορίζεται στα 2 dB και διατηρείται η προστασία συμβατότητας με μονοφωνική ακρόαση. Τα preset ομιλίας και καθαρού stream διατηρούν την υπάρχουσα στερεοφωνική τους εικόνα."
+  "en": "Fix: stations that had applied an unedited built-in preset in 1.60–1.62.1 kept that older copy after updating — still with generated bass harmonics and the previous stereo width — because those versions were missing from the list of older presets that Aether recognises. They now move to the current preset once; sounds the station edited, and its own presets, stay as they are",
+  "el": "Διόρθωση: οι σταθμοί που είχαν εφαρμόσει ένα ενσωματωμένο preset χωρίς αλλαγές στις 1.60–1.62.1 κρατούσαν αυτό το παλιό αντίγραφο μετά την ενημέρωση — ακόμη με τεχνητές αρμονικές μπάσων και το προηγούμενο εύρος στέρεο — επειδή αυτές οι εκδόσεις έλειπαν από τη λίστα παλαιότερων presets που αναγνωρίζει το Aether. Τώρα περνούν μία φορά στο τρέχον preset· οι ήχοι που άλλαξε ο σταθμός και τα δικά του presets μένουν ως έχουν"
  }
 }
