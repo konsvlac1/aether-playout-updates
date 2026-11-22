@@ -1,8 +1,8 @@
 {
- "version": "1.68.1",
+ "version": "1.69",
  "date": "2026-11-22",
  "notes": {
-  "en": "Wording: the 1.67 notes describe the new tools in Aether's own words",
-  "el": "Διατύπωση: οι σημειώσεις της 1.67 περιγράφουν τα νέα εργαλεία με δικά μας λόγια"
+  "en": "Settings → Sound → Download the Audio Bridge: this version's Windows bridge in a zip with “Update Audio Bridge.cmd” — extract, double-click, done (the card is silent about 3 seconds, Aether reconnects by itself). The zip's README and docs/windows-11-audio-bridge.md have every Windows 11 step for 32-bit and 192 kHz",
+  "el": "Ρυθμίσεις → Ήχος → Λήψη του Audio Bridge: το bridge των Windows αυτής της έκδοσης σε zip με το «Update Audio Bridge.cmd» — αποσυμπίεση, διπλό κλικ, έτοιμο (η κάρτα σιωπά περίπου 3 δευτερόλεπτα, το Aether ξανασυνδέεται μόνο του). Το README του zip και το docs/windows-11-audio-bridge.md έχουν όλα τα βήματα για Windows 11, για 32-bit και 192 kHz"
  }
 }
