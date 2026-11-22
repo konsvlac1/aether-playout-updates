@@ -1,8 +1,8 @@
 {
- "version": "1.66",
+ "version": "1.67",
  "date": "2026-11-22",
  "notes": {
-  "en": "One stream: Settings → Internet streaming has a switch for the old fixed address (/live, or /station2 … for extra stations). Switched off, the station streams only to its own named address (e.g. /rocking-fm) — one stream in the list, less work for the computer. New stations start with only their named stream; existing stations keep both until you switch the old one off",
-  "el": "Ένα stream: Ρυθμίσεις → Διαδικτυακό streaming έχει διακόπτη για την παλιά σταθερή διεύθυνση (/live, ή /station2 … για επιπλέον σταθμούς). Κλειστός, ο σταθμός στέλνει stream μόνο στη δική του διεύθυνση με το όνομά του (π.χ. /rocking-fm) — ένα stream στη λίστα, λιγότερη δουλειά για τον υπολογιστή. Οι νέοι σταθμοί ξεκινούν μόνο με το δικό τους stream· οι υπάρχοντες κρατούν και τα δύο μέχρι να κλείσετε το παλιό"
+  "en": "Omnia-class tools, Aether's own design: listen at any point of the chain on the second sound card (the mix, after the leveller, before or after Aether Sound's bands, on air); Kick (60 Hz) and Body (150 Hz) next to Bass; program input stereo, mono, left, right or swapped; MPX test tone for setting the transmitter (400 Hz / 1 kHz / 10 kHz, level, left only for separation; off by itself after 15 minutes); RDS changing name (dynamic PS, with {artist} {title}), programme type name (PTYN) and TA for traffic news",
+  "el": "Εργαλεία επιπέδου Omnia, με δικό μας σχεδιασμό: ακρόαση σε οποιοδήποτε σημείο της αλυσίδας στη δεύτερη κάρτα ήχου (το μίξ, μετά τον leveller, πριν ή μετά τις μπάντες του Aether Sound, στον αέρα)· Kick (60 Hz) και Σώμα (150 Hz) δίπλα στο Bass· είσοδος προγράμματος stereo, mono, αριστερό, δεξί ή ανάποδα· test tone στο MPX για τη ρύθμιση του πομπού (400 Hz / 1 kHz / 10 kHz, στάθμη, μόνο αριστερό για τον διαχωρισμό· σβήνει μόνο του μετά από 15 λεπτά)· RDS κυλιόμενο όνομα (dynamic PS, με {artist} {title}), όνομα είδους προγράμματος (PTYN) και TA για κυκλοφοριακά"
  }
 }
