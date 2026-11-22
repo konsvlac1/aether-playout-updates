@@ -1,8 +1,8 @@
 {
- "version": "1.70.1",
+ "version": "1.70.2",
  "date": "2026-11-23",
  "notes": {
-  "en": "All presets aligned: the older presets some stations still use (FM, Loud, Hits, Pop, Rock, Dance, Greek, AC, Broadcast, FM Loud, FM Presence) and Streaming get the 1.70 rules — gentler highs (Auto Highs and Brilliance lower), no low-mid scoop, Auto Clean and band linking. Unedited copies are updated, edited sounds stay",
-  "el": "Όλα τα presets ευθυγραμμίστηκαν: τα παλαιότερα presets που χρησιμοποιούν ακόμα κάποιοι σταθμοί (FM, Loud, Hits, Pop, Rock, Dance, Greek, AC, Broadcast, FM Loud, FM Presence) και το Streaming παίρνουν τους κανόνες της 1.70 — πιο ήπια πρίμα (χαμηλότερα Auto Highs και Brilliance), χωρίς βαθούλωμα στα χαμηλομεσαία, Auto Clean και σύνδεση μπαντών. Τα αμετάβλητα αντίγραφα ενημερώνονται, οι αλλαγμένοι ήχοι μένουν"
+  "en": "FM without crackles: on 87.7 the transmitter's own limiter clipped wide stereo with bright highs (crackles in the stereo signal, measured). In FM transmitter mode the stereo is now at most 92 % wide, the widener is off and mono safety is on, for any preset; the FM presets (FM Power, FM Rock, FM Smooth, Greek Pop & Laïka and the older FM ones) are set the same way. Streams keep their full stereo. Fixed: mono safety and hum removal (1.70) were lost when a sound was saved",
+  "el": "FM χωρίς τριξίματα: στους 87.7 ο limiter του πομπού έκοβε το φαρδύ stereo με φωτεινά πρίμα (τριξίματα στο στερεοφωνικό σήμα, μετρημένα). Σε λειτουργία πομπού FM το stereo είναι πλέον έως 92 % φαρδύ, ο widener κλειστός και η ασφάλεια mono ανοιχτή, για κάθε preset· τα FM presets (FM Power, FM Rock, FM Smooth, Ελληνική Pop & Λαϊκά και τα παλαιότερα FM) ρυθμίστηκαν το ίδιο. Τα streams κρατούν όλο το stereo. Διόρθωση: η ασφάλεια mono και η αφαίρεση βόμβου (1.70) χάνονταν όταν αποθηκευόταν ένας ήχος"
  }
 }
