@@ -1,8 +1,8 @@
 {
- "version": "1.60",
+ "version": "1.62",
  "date": "2026-11-22",
  "notes": {
-  "en": "Aether Sound: reviewed all 24 presets, with cleaner bass, tighter low notes, gentler automatic tone correction and controlled stereo width. FM Rock has firmer low-band control and quicker recovery between hits; speech and clean music formats retain their distinct character. The input and output loudness controls now check a faster level reference before following their older average, reducing corrections in the wrong direction after a verse or chorus change. Unchanged saved built-in presets receive the reviewed defaults once; edited sounds, custom presets and band choices are preserved",
-  "el": "Aether Sound: επανεξέταση και των 24 presets, με καθαρότερα μπάσα, πιο σταθερές χαμηλές νότες, ηπιότερη αυτόματη τονική διόρθωση και ελεγχόμενο στερεοφωνικό εύρος. Το FM Rock ελέγχει πιο σταθερά τις χαμηλές ζώνες και επανέρχεται πιο γρήγορα ανάμεσα στα χτυπήματα· οι επιλογές ομιλίας και καθαρής μουσικής διατηρούν τον ξεχωριστό χαρακτήρα τους. Οι έλεγχοι έντασης εισόδου και εξόδου ελέγχουν πλέον μια ταχύτερη μέτρηση πριν ακολουθήσουν τον παλιότερο μέσο όρο, μειώνοντας τις διορθώσεις προς τη λάθος κατεύθυνση στις αλλαγές κουπλέ και ρεφρέν. Τα αποθηκευμένα εργοστασιακά presets χωρίς αλλαγές παίρνουν τις νέες προεπιλογές μία φορά· οι τροποποιημένοι ήχοι, τα προσωπικά presets και η επιλογή ζωνών διατηρούνται"
+  "en": "Automatic tone control, de-essing and the live spectrum now measure both stereo channels, including wide guitars and cymbals. FM Power now defaults Bass for small speakers to 0% for cleaner bass on headphones. The preset keeps its sub-bass and loudness settings. Stations using the factory FM Power settings receive the change automatically. The CHR – Current Hits preset is also available.",
+  "el": "Η αυτόματη ρύθμιση χροιάς, ο έλεγχος συριστικών και το ζωντανό φάσμα μετρούν πλέον και τα δύο κανάλια, ακόμη και σε κιθάρες και πιατίνια με μεγάλη στερεοφωνική εικόνα. Το FM Power χρησιμοποιεί πλέον την τιμή 0% στη ρύθμιση μπάσων για μικρά ηχεία, για καθαρότερα μπάσα στα ακουστικά. Διατηρεί τις ρυθμίσεις υπομπάσων και ηχηρότητας. Η αλλαγή εφαρμόζεται αυτόματα στους σταθμούς που χρησιμοποιούν τις εργοστασιακές ρυθμίσεις FM Power. Είναι επίσης διαθέσιμο το preset CHR – Σύγχρονες επιτυχίες."
  }
 }
