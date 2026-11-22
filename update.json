@@ -1,8 +1,8 @@
 {
- "version": "1.63",
+ "version": "1.64",
  "date": "2026-11-22",
  "notes": {
-  "en": "Fix: stations that had applied an unedited built-in preset in 1.60–1.62.1 kept that older copy after updating — still with generated bass harmonics and the previous stereo width — because those versions were missing from the list of older presets that Aether recognises. They now move to the current preset once; sounds the station edited, and its own presets, stay as they are",
-  "el": "Διόρθωση: οι σταθμοί που είχαν εφαρμόσει ένα ενσωματωμένο preset χωρίς αλλαγές στις 1.60–1.62.1 κρατούσαν αυτό το παλιό αντίγραφο μετά την ενημέρωση — ακόμη με τεχνητές αρμονικές μπάσων και το προηγούμενο εύρος στέρεο — επειδή αυτές οι εκδόσεις έλειπαν από τη λίστα παλαιότερων presets που αναγνωρίζει το Aether. Τώρα περνούν μία φορά στο τρέχον preset· οι ήχοι που άλλαξε ο σταθμός και τα δικά του presets μένουν ως έχουν"
+  "en": "Cleaner digital output: the main sound card now runs 32-bit when it accepts it, otherwise 16-bit with proper dither; the Windows audio bridge rounds with dither instead of cutting the bits off (quiet passages and fade tails were gritty). Settings → Sound → Sound cards lists the outputs in words, grouped: on air, pre-listen, internet streams, recordings — each with its device or address and whether it works. Presets: “Bass” is now “Dance / Urban”, “Classic” is “Classic Hits”, and each preset of the list has a one-line description of what it is for",
+  "el": "Πιο καθαρή ψηφιακή έξοδος: η κύρια κάρτα ήχου δουλεύει πλέον στα 32 bit όταν τα δέχεται, αλλιώς στα 16 bit με σωστό dither· η γέφυρα ήχου των Windows στρογγυλεύει με dither αντί να κόβει τα bit (τα ήσυχα σημεία και οι ουρές των σβησιμάτων ακούγονταν τραχιά). Ρυθμίσεις → Ήχος → Κάρτες ήχου: οι έξοδοι με λόγια, σε ομάδες — στον αέρα, προακρόαση, διαδικτυακά streams, ηχογραφήσεις — η καθεμιά με τη συσκευή ή τη διεύθυνσή της και αν λειτουργεί. Presets: το «Μπάσα» λέγεται πλέον «Dance / Urban», το «Classic» «Classic Hits», και κάθε preset της λίστας έχει μια γραμμή που λέει σε τι χρησιμεύει"
  }
 }
