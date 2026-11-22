@@ -1,8 +1,8 @@
 {
- "version": "1.68",
+ "version": "1.68.1",
  "date": "2026-11-22",
  "notes": {
-  "en": "The main card at 48, 96 or 192 kHz with Aether's own clean upsampler (flat to 20 kHz, images over 120 dB down), so nothing in Windows or ALSA converts; the Windows Audio Bridge now gets 32-bit float (it was 16-bit) and can use exclusive mode (bit-perfect); under Outputs now, a card check shows what each card really runs at and what to change when something converts. Updates: no more 'up to date' after a failed check",
-  "el": "Η κύρια κάρτα στα 48, 96 ή 192 kHz με τον δικό μας καθαρό upsampler (επίπεδο έως 20 kHz, τα είδωλα πάνω από 120 dB κάτω), ώστε να μη μετατρέπουν τίποτα τα Windows ή το ALSA· το Audio Bridge των Windows παίρνει πλέον 32-bit float (ήταν 16-bit) και μπορεί να δουλέψει σε exclusive mode (bit-perfect)· στο Έξοδοι τώρα, ένας έλεγχος κάρτας δείχνει σε τι παίζει πραγματικά κάθε κάρτα και τι να αλλάξετε όταν κάτι μετατρέπεται. Ενημερώσεις: όχι πια «ενημερωμένο» μετά από αποτυχημένο έλεγχο"
+  "en": "Wording: the 1.67 notes describe the new tools in Aether's own words",
+  "el": "Διατύπωση: οι σημειώσεις της 1.67 περιγράφουν τα νέα εργαλεία με δικά μας λόγια"
  }
 }
