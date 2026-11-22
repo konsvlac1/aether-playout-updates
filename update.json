@@ -1,8 +1,8 @@
 {
- "version": "1.62.1",
+ "version": "1.62.2",
  "date": "2026-11-22",
  "notes": {
-  "en": "Aether Sound preset review: all built-in formats now keep generated bass harmonics off for cleaner bass on headphones and streams. Deep-bass recovery remains available for recordings that lack their lowest octave. Stations using unchanged factory presets receive the update automatically; custom edits are kept.",
-  "el": "Αναθεώρηση των preset ήχου Aether Sound: όλες οι εργοστασιακές μορφές έχουν πλέον απενεργοποιημένη τη δημιουργία αρμονικών μπάσων, για καθαρότερο ήχο σε ακουστικά και streams. Η ενίσχυση βαθιών μπάσων παραμένει διαθέσιμη για ηχογραφήσεις που δεν έχουν τη χαμηλότερη οκτάβα. Η ενημέρωση εφαρμόζεται αυτόματα στα εργοστασιακά preset που δεν έχουν τροποποιηθεί, ενώ οι προσαρμοσμένες ρυθμίσεις διατηρούνται."
+  "en": "Aether Sound music presets now use a modest stereo opening, based on level-matched analysis of Patras station streams. The stereo enhancer is limited to 2 dB, with mono-safety protection retained. Speech and clean-stream voicings keep their existing width.",
+  "el": "Τα μουσικά preset του Aether Sound έχουν πλέον λίγο πιο ανοιχτή στερεοφωνική εικόνα, με βάση ανάλυση σταθμών της Πάτρας σε αντιστοιχισμένη στάθμη. Η στερεοφωνική ενίσχυση περιορίζεται στα 2 dB και διατηρείται η προστασία συμβατότητας με μονοφωνική ακρόαση. Τα preset ομιλίας και καθαρού stream διατηρούν την υπάρχουσα στερεοφωνική τους εικόνα."
  }
 }
