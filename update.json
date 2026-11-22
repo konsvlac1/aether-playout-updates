@@ -1,8 +1,8 @@
 {
- "version": "1.62",
+ "version": "1.62.1",
  "date": "2026-11-22",
  "notes": {
-  "en": "Automatic tone control, de-essing and the live spectrum now measure both stereo channels, including wide guitars and cymbals. FM Power now defaults Bass for small speakers to 0% for cleaner bass on headphones. The preset keeps its sub-bass and loudness settings. Stations using the factory FM Power settings receive the change automatically. The CHR – Current Hits preset is also available.",
-  "el": "Η αυτόματη ρύθμιση χροιάς, ο έλεγχος συριστικών και το ζωντανό φάσμα μετρούν πλέον και τα δύο κανάλια, ακόμη και σε κιθάρες και πιατίνια με μεγάλη στερεοφωνική εικόνα. Το FM Power χρησιμοποιεί πλέον την τιμή 0% στη ρύθμιση μπάσων για μικρά ηχεία, για καθαρότερα μπάσα στα ακουστικά. Διατηρεί τις ρυθμίσεις υπομπάσων και ηχηρότητας. Η αλλαγή εφαρμόζεται αυτόματα στους σταθμούς που χρησιμοποιούν τις εργοστασιακές ρυθμίσεις FM Power. Είναι επίσης διαθέσιμο το preset CHR – Σύγχρονες επιτυχίες."
+  "en": "Aether Sound preset review: all built-in formats now keep generated bass harmonics off for cleaner bass on headphones and streams. Deep-bass recovery remains available for recordings that lack their lowest octave. Stations using unchanged factory presets receive the update automatically; custom edits are kept.",
+  "el": "Αναθεώρηση των preset ήχου Aether Sound: όλες οι εργοστασιακές μορφές έχουν πλέον απενεργοποιημένη τη δημιουργία αρμονικών μπάσων, για καθαρότερο ήχο σε ακουστικά και streams. Η ενίσχυση βαθιών μπάσων παραμένει διαθέσιμη για ηχογραφήσεις που δεν έχουν τη χαμηλότερη οκτάβα. Η ενημέρωση εφαρμόζεται αυτόματα στα εργοστασιακά preset που δεν έχουν τροποποιηθεί, ενώ οι προσαρμοσμένες ρυθμίσεις διατηρούνται."
  }
 }
