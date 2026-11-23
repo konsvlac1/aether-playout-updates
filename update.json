@@ -1,8 +1,8 @@
 {
- "version": "1.72",
+ "version": "1.72.1",
  "date": "2026-11-24",
  "notes": {
-  "en": "Bass clipper: the voice no longer dips with every kick. The bass peaks are clipped before the final limiter, so it stops turning the whole program down for them (measured: the voice dip on the kicks from about 1.5 dB to under 1 dB). On (Medium) in FM Power, FM Rock, Greek Pop and FM Loud; Aether Sound → Bass clipper",
-  "el": "Clipper μπάσων: η φωνή δεν βουλιάζει πια σε κάθε χτύπημα του kick. Οι κορυφές των μπάσων κόβονται πριν από τον τελικό limiter, έτσι εκείνος δεν χαμηλώνει πια όλο το πρόγραμμα γι' αυτές (μετρημένο: το βύθισμα της φωνής στα kick από περίπου 1,5 dB σε κάτω από 1 dB). Ενεργό (Μέτριο) στα FM Power, FM Rock, Greek Pop και FM Loud· Aether Sound → Clipper μπάσων"
+  "en": "Bass clipper in all the presets where it helps: FM Presence, Urban and FM Smooth now have it too (3 dB). The voice dips less on the kicks (FM Presence from 1.75 to 1.09 dB); measured on every music preset, and left off where it did not help",
+  "el": "Clipper μπάσων σε όλα τα presets όπου βοηθά: τώρα το έχουν και τα FM Presence, Urban και FM Smooth (3 dB). Η φωνή βουλιάζει λιγότερο στα kick (FM Presence από 1,75 σε 1,09 dB)· μετρήθηκε σε κάθε μουσικό preset και έμεινε κλειστό όπου δεν βοηθούσε"
  }
 }
