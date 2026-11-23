@@ -1,8 +1,8 @@
 {
- "version": "1.71",
- "date": "2026-11-23",
+ "version": "1.72",
+ "date": "2026-11-24",
  "notes": {
-  "en": "Per-song memory: Aether learns how much bass, highs and presence each song needs and starts it with the right tone from the first second the next time it plays (Aether Sound → Remember each song's tone, on by default). Multipath protection: less crackle in cars when the FM signal bounces off buildings (the very high stereo held in; on in the FM presets). Pseudo-stereo: old mono songs and mono links get a gentle stereo feel, exactly the same on mono radios",
-  "el": "Μνήμη ανά τραγούδι: το Aether μαθαίνει πόσο μπάσο, πρίμα και παρουσία χρειάζεται κάθε τραγούδι και την επόμενη φορά το ξεκινά με τη σωστή χροιά από το πρώτο δευτερόλεπτο (Aether Sound → Μνήμη χροιάς για κάθε τραγούδι, ανοιχτό από προεπιλογή). Προστασία από ανακλάσεις: λιγότερο τρίξιμο στα αυτοκίνητα όταν το σήμα FM ανακλάται σε κτίρια (το πολύ ψηλό stereo υπό έλεγχο· ανοιχτό στα FM presets). Ψευδο-stereo: τα παλιά mono τραγούδια και οι mono συνδέσεις παίρνουν απαλή αίσθηση stereo, ακριβώς ίδια στα mono ραδιόφωνα"
+  "en": "Bass clipper: the voice no longer dips with every kick. The bass peaks are clipped before the final limiter, so it stops turning the whole program down for them (measured: the voice dip on the kicks from about 1.5 dB to under 1 dB). On (Medium) in FM Power, FM Rock, Greek Pop and FM Loud; Aether Sound → Bass clipper",
+  "el": "Clipper μπάσων: η φωνή δεν βουλιάζει πια σε κάθε χτύπημα του kick. Οι κορυφές των μπάσων κόβονται πριν από τον τελικό limiter, έτσι εκείνος δεν χαμηλώνει πια όλο το πρόγραμμα γι' αυτές (μετρημένο: το βύθισμα της φωνής στα kick από περίπου 1,5 dB σε κάτω από 1 dB). Ενεργό (Μέτριο) στα FM Power, FM Rock, Greek Pop και FM Loud· Aether Sound → Clipper μπάσων"
  }
 }
