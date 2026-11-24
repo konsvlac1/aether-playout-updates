@@ -1,8 +1,8 @@
 {
- "version": "1.73.1",
+ "version": "1.74",
  "date": "2026-11-24",
  "notes": {
-  "en": "Steadier voice in the loud FM presets: FM Power, FM Rock, Greek Pop, FM Loud, FM Presence, Urban and FM Smooth now recover in 90 ms instead of 60 (with the dual release: quickly back to where the music sits, slowly above it) — the voice dips less on the kicks and the mids are cleaner, measured on 8 songs at −8 LUFS",
-  "el": "Πιο σταθερή φωνή στα δυνατά FM presets: τα FM Power, FM Rock, Greek Pop, FM Loud, FM Presence, Urban και FM Smooth επανέρχονται πλέον σε 90 ms αντί 60 (με τη διπλή επαναφορά: γρήγορα ως εκεί που βρίσκεται η μουσική, αργά πάνω από αυτό) — η φωνή βουλιάζει λιγότερο στα kick και τα μεσαία είναι πιο καθαρά, μετρημένο σε 8 τραγούδια στα −8 LUFS"
+  "en": "Loudness level with the reference: after the final limiter the output loudness may now add up to 8 dB (was 6), so the loud FM presets settle on their target (FM Rock at −8: −8.05 LUFS against −8.16, the same distortion and steadiness). The Audio Bridge now reports when the Windows PC's sound card runs dry — each time a gap of silence, a click on air — and Sound cards shows it with what to do (update the Audio Bridge with the download button)",
+  "el": "Ένταση στο επίπεδο της αναφοράς: μετά τον τελικό limiter η ένταση εξόδου μπορεί πλέον να προσθέσει ως 8 dB (ήταν 6), έτσι τα δυνατά FM presets κάθονται στον στόχο τους (FM Rock στα −8: −8,05 LUFS αντί −8,16, ίδια παραμόρφωση και σταθερότητα). Το Audio Bridge αναφέρει πλέον πότε η κάρτα ήχου του Windows PC αδειάζει — κάθε φορά ένα κενό σιωπής, ένα κλικ στον αέρα — και οι Κάρτες ήχου το δείχνουν μαζί με το τι να κάνετε (ενημερώστε το Audio Bridge με το κουμπί λήψης)"
  }
 }
