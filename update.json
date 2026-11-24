@@ -1,8 +1,8 @@
 {
- "version": "1.74",
- "date": "2026-11-24",
+ "version": "1.75",
+ "date": "2026-11-25",
  "notes": {
-  "en": "Loudness level with the reference: after the final limiter the output loudness may now add up to 8 dB (was 6), so the loud FM presets settle on their target (FM Rock at −8: −8.05 LUFS against −8.16, the same distortion and steadiness). The Audio Bridge now reports when the Windows PC's sound card runs dry — each time a gap of silence, a click on air — and Sound cards shows it with what to do (update the Audio Bridge with the download button)",
-  "el": "Ένταση στο επίπεδο της αναφοράς: μετά τον τελικό limiter η ένταση εξόδου μπορεί πλέον να προσθέσει ως 8 dB (ήταν 6), έτσι τα δυνατά FM presets κάθονται στον στόχο τους (FM Rock στα −8: −8,05 LUFS αντί −8,16, ίδια παραμόρφωση και σταθερότητα). Το Audio Bridge αναφέρει πλέον πότε η κάρτα ήχου του Windows PC αδειάζει — κάθε φορά ένα κενό σιωπής, ένα κλικ στον αέρα — και οι Κάρτες ήχου το δείχνουν μαζί με το τι να κάνετε (ενημερώστε το Audio Bridge με το κουμπί λήψης)"
+  "en": "Off-air monitor: Aether listens to its own FM through a receiver (an FM-DX webserver, or any receiver's audio stream) and tells you what listeners hear — crackle bursts, dead air on FM while the program plays, stereo lost, a weak signal, the wrong RDS name — with an alert and a 12-second recording of each, and a verdict on On Air (Settings → Alerts → Off-air monitor)",
+  "el": "Έλεγχος εκπομπής: το Aether ακούει το δικό του FM μέσα από έναν δέκτη (έναν FM-DX webserver ή το ηχητικό stream οποιουδήποτε δέκτη) και σας λέει ό,τι ακούν οι ακροατές — ριπές τριξίματος, σιωπή στο FM ενώ παίζει το πρόγραμμα, απώλεια stereo, αδύναμο σήμα, λάθος όνομα RDS — με ειδοποίηση και ηχογράφηση 12 δευτερολέπτων για το καθένα, και την εικόνα στο On Air (Ρυθμίσεις → Ειδοποιήσεις → Έλεγχος εκπομπής)"
  }
 }
