@@ -1,8 +1,8 @@
 {
- "version": "1.72.1",
+ "version": "1.73",
  "date": "2026-11-24",
  "notes": {
-  "en": "Bass clipper in all the presets where it helps: FM Presence, Urban and FM Smooth now have it too (3 dB). The voice dips less on the kicks (FM Presence from 1.75 to 1.09 dB); measured on every music preset, and left off where it did not help",
-  "el": "Clipper μπάσων σε όλα τα presets όπου βοηθά: τώρα το έχουν και τα FM Presence, Urban και FM Smooth (3 dB). Η φωνή βουλιάζει λιγότερο στα kick (FM Presence από 1,75 σε 1,09 dB)· μετρήθηκε σε κάθε μουσικό preset και έμεινε κλειστό όπου δεν βοηθούσε"
+  "en": "Steadier voice, cleaner FM: the final limiter's dual release in every preset — the voice no longer dips with each kick (CHR from 1.12 to 0.88 dB, FM Rock 0.86 → 0.68), with the same bass and loudness. New: bass pre-limiter (only the bass comes down at a bass peak; Soft / Medium / Hard, its own amount for speech), headroom for the transmitter's overshoot (Sound cards: a crackle on loud songs), single-sideband stereo and a composite clipper for Aether's own MPX output, and the bass clipper now switches on without a click",
+  "el": "Πιο σταθερή φωνή, πιο καθαρό FM: η διπλή επαναφορά του τελικού limiter σε κάθε preset — η φωνή δεν βουλιάζει πια σε κάθε kick (CHR από 1,12 σε 0,88 dB, FM Rock 0,86 → 0,68), με τα ίδια μπάσα και την ίδια ένταση. Νέα: προ-limiter μπάσων (σε μια κορυφή μπάσων χαμηλώνουν μόνο τα μπάσα· Απαλός / Μέτριος / Σκληρός, δική του ποσότητα για την ομιλία), περιθώριο για την υπερύψωση του πομπού (Κάρτες ήχου: τρίξιμο στα δυνατά τραγούδια), stereo μονής πλευρικής και clipper σύνθετου σήματος για την έξοδο MPX του Aether, και ο clipper μπάσων ανοίγει πλέον χωρίς κλικ"
  }
 }
