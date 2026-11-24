@@ -1,8 +1,8 @@
 {
- "version": "1.75",
+ "version": "1.75.1",
  "date": "2026-11-25",
  "notes": {
-  "en": "Off-air monitor: Aether listens to its own FM through a receiver (an FM-DX webserver, or any receiver's audio stream) and tells you what listeners hear — crackle bursts, dead air on FM while the program plays, stereo lost, a weak signal, the wrong RDS name — with an alert and a 12-second recording of each, and a verdict on On Air (Settings → Alerts → Off-air monitor)",
-  "el": "Έλεγχος εκπομπής: το Aether ακούει το δικό του FM μέσα από έναν δέκτη (έναν FM-DX webserver ή το ηχητικό stream οποιουδήποτε δέκτη) και σας λέει ό,τι ακούν οι ακροατές — ριπές τριξίματος, σιωπή στο FM ενώ παίζει το πρόγραμμα, απώλεια stereo, αδύναμο σήμα, λάθος όνομα RDS — με ειδοποίηση και ηχογράφηση 12 δευτερολέπτων για το καθένα, και την εικόνα στο On Air (Ρυθμίσεις → Ειδοποιήσεις → Έλεγχος εκπομπής)"
+  "en": "New presets of Aether's own: Clear & Dynamic (drums and transients alive, a steady voice, clean deep bass — less tiring), Clear & Dynamic – Warm and Airy & Even (loud, very airy, every song the same). Every Aether Sound control now says in one line what you hear when you turn it; the bands are named by what they hold (kick, warmth, voice, presence, air), the equaliser says what each frequency touches. Brilliance at 8 kHz in all presets: a little more air on FM, measured",
+  "el": "Νέα presets του Aether: Καθαρό & Δυναμικό (ζωντανά ντραμς και transients, σταθερή φωνή, καθαρά βαθιά μπάσα — λιγότερη κούραση), Καθαρό & Δυναμικό – Ζεστό και Αέρινο & Σταθερό (δυνατό, πολύ αέρινο, κάθε τραγούδι ίδιο). Κάθε ρύθμιση του Aether Sound λέει πλέον σε μία γραμμή τι ακούτε όταν τη γυρίζετε· οι μπάντες ονομάζονται από ό,τι κρατούν (kick, ζεστασιά, φωνή, παρουσία, αέρας), ο ισοσταθμιστής λέει τι επηρεάζει κάθε συχνότητα. Λάμψη στα 8 kHz σε όλα τα presets: λίγο περισσότερος αέρας στο FM, μετρημένα"
  }
 }
