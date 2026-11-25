@@ -1,8 +1,8 @@
 {
- "version": "1.75.1",
+ "version": "1.76",
  "date": "2026-11-25",
  "notes": {
-  "en": "New presets of Aether's own: Clear & Dynamic (drums and transients alive, a steady voice, clean deep bass — less tiring), Clear & Dynamic – Warm and Airy & Even (loud, very airy, every song the same). Every Aether Sound control now says in one line what you hear when you turn it; the bands are named by what they hold (kick, warmth, voice, presence, air), the equaliser says what each frequency touches. Brilliance at 8 kHz in all presets: a little more air on FM, measured",
-  "el": "Νέα presets του Aether: Καθαρό & Δυναμικό (ζωντανά ντραμς και transients, σταθερή φωνή, καθαρά βαθιά μπάσα — λιγότερη κούραση), Καθαρό & Δυναμικό – Ζεστό και Αέρινο & Σταθερό (δυνατό, πολύ αέρινο, κάθε τραγούδι ίδιο). Κάθε ρύθμιση του Aether Sound λέει πλέον σε μία γραμμή τι ακούτε όταν τη γυρίζετε· οι μπάντες ονομάζονται από ό,τι κρατούν (kick, ζεστασιά, φωνή, παρουσία, αέρας), ο ισοσταθμιστής λέει τι επηρεάζει κάθε συχνότητα. Λάμψη στα 8 kHz σε όλα τα presets: λίγο περισσότερος αέρας στο FM, μετρημένα"
+  "en": "Steady voice: a new multiband final limiter takes each peak out of the band that makes it — a kick out of the bass, a cymbal out of the highs — so the voice no longer dips on the beat (FM Rock at −8 LUFS: from 0.61 to 0.29 dB). It costs bass and air, so it is a control, off in every preset: Aether Sound → Advanced → Steady voice",
+  "el": "Σταθερή φωνή: ένας νέος πολυζωνικός τελικός limiter βγάζει κάθε κορυφή από τη μπάντα που την κάνει — ένα kick από τα μπάσα, ένα πιατίνι από τα πρίμα — έτσι η φωνή δεν βουλιάζει πια στον ρυθμό (FM Rock στα −8 LUFS: από 0,61 σε 0,29 dB). Κοστίζει μπάσα και αέρα, γι' αυτό είναι ρύθμιση, κλειστή σε κάθε preset: Aether Sound → Για προχωρημένους → Σταθερή φωνή"
  }
 }
