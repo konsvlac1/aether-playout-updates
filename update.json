@@ -1,8 +1,8 @@
 {
- "version": "1.78",
- "date": "2026-11-25",
+ "version": "1.78.1",
+ "date": "2026-11-26",
  "notes": {
-  "en": "Find songs (Music → Find songs): paste a Spotify, YouTube or Apple Music link and Aether finds the song in your library (to play next) or puts it on a To buy list with stores that sell files; the charts of a country (Apple Music's public chart, Greece by default) next to your library, the missing songs onto the list with one click. No audio is taken from these services: their music is for personal listening, not for broadcast",
-  "el": "Εύρεση τραγουδιών (Μουσική → Εύρεση τραγουδιών): επικολλήστε έναν σύνδεσμο Spotify, YouTube ή Apple Music και το Aether βρίσκει το τραγούδι στη βιβλιοθήκη σας (να παίξει επόμενο) ή το βάζει σε μια λίστα «Για αγορά» με καταστήματα που πουλούν αρχεία· τα charts μιας χώρας (το δημόσιο chart του Apple Music, η Ελλάδα από προεπιλογή) δίπλα στη βιβλιοθήκη σας, τα τραγούδια που λείπουν στη λίστα με ένα κλικ. Δεν παίρνεται ήχος από αυτές τις υπηρεσίες: η μουσική τους είναι για προσωπική ακρόαση, όχι για εκπομπή"
+  "en": "Cleaner sound in every loud preset: the final limiter's movement is smoother (3 ms instead of 2) — the mids 2–3.5 dB and the highs up to 3 dB cleaner, measured on 8 songs at the FM loudness, with the same loudness and the same steady voice",
+  "el": "Πιο καθαρός ήχος σε κάθε δυνατό preset: η κίνηση του τελικού limiter είναι πιο ομαλή (3 ms αντί 2) — τα μεσαία 2–3,5 dB και τα πρίμα ως 3 dB πιο καθαρά, μετρημένα σε 8 τραγούδια στην ένταση του FM, με την ίδια ένταση και την ίδια σταθερή φωνή"
  }
 }
