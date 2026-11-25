@@ -1,8 +1,8 @@
 {
- "version": "1.77",
+ "version": "1.78",
  "date": "2026-11-25",
  "notes": {
-  "en": "Sound Match: your station's sound next to a reference — another station, an FM receiver, a recording — measured the same way (loudness, density, movement, bass, warmth, presence, air, width), the differences in plain words, and one button that saves a preset moving towards it (Settings → Sound → Sound Match). After a restart Aether Sound starts at the loudness it had, instead of being quieter for half a minute",
-  "el": "Ταίριασμα ήχου: ο ήχος του σταθμού σας δίπλα σε μια αναφορά — έναν άλλο σταθμό, έναν δέκτη FM, μια ηχογράφηση — μετρημένα με τον ίδιο τρόπο (ένταση, πυκνότητα, κίνηση, μπάσα, ζεστασιά, παρουσία, αέρας, εύρος), οι διαφορές σε απλά λόγια και ένα κουμπί που αποθηκεύει ένα preset προς την αναφορά (Ρυθμίσεις → Ήχος → Ταίριασμα ήχου). Μετά από επανεκκίνηση το Aether Sound ξεκινά στην ένταση που είχε, αντί να είναι πιο χαμηλό για μισό λεπτό"
+  "en": "Find songs (Music → Find songs): paste a Spotify, YouTube or Apple Music link and Aether finds the song in your library (to play next) or puts it on a To buy list with stores that sell files; the charts of a country (Apple Music's public chart, Greece by default) next to your library, the missing songs onto the list with one click. No audio is taken from these services: their music is for personal listening, not for broadcast",
+  "el": "Εύρεση τραγουδιών (Μουσική → Εύρεση τραγουδιών): επικολλήστε έναν σύνδεσμο Spotify, YouTube ή Apple Music και το Aether βρίσκει το τραγούδι στη βιβλιοθήκη σας (να παίξει επόμενο) ή το βάζει σε μια λίστα «Για αγορά» με καταστήματα που πουλούν αρχεία· τα charts μιας χώρας (το δημόσιο chart του Apple Music, η Ελλάδα από προεπιλογή) δίπλα στη βιβλιοθήκη σας, τα τραγούδια που λείπουν στη λίστα με ένα κλικ. Δεν παίρνεται ήχος από αυτές τις υπηρεσίες: η μουσική τους είναι για προσωπική ακρόαση, όχι για εκπομπή"
  }
 }
