@@ -1,8 +1,8 @@
 {
- "version": "1.78.1",
+ "version": "1.78.2",
  "date": "2026-11-26",
  "notes": {
-  "en": "Cleaner sound in every loud preset: the final limiter's movement is smoother (3 ms instead of 2) — the mids 2–3.5 dB and the highs up to 3 dB cleaner, measured on 8 songs at the FM loudness, with the same loudness and the same steady voice",
-  "el": "Πιο καθαρός ήχος σε κάθε δυνατό preset: η κίνηση του τελικού limiter είναι πιο ομαλή (3 ms αντί 2) — τα μεσαία 2–3,5 dB και τα πρίμα ως 3 dB πιο καθαρά, μετρημένα σε 8 τραγούδια στην ένταση του FM, με την ίδια ένταση και την ίδια σταθερή φωνή"
+  "en": "Fat bass, full and clear: a new preset FM Full & Clear (CHR with a clearer low-mid range, more kick, one step fuller — as clean as CHR), a little more bass and less mud in Natural, and a cleaner, fuller bass in FM Power, FM Rock, Greek Pop and FM Loud (their bass clipper gentler). Sound cards now warns when a card on air runs without FM transmitter mode — the usual cause of crackle on FM — and fixes it in one click",
+  "el": "Γεμάτα μπάσα, γεμάτος και καθαρός ήχος: νέο preset FM Γεμάτο & Καθαρό (CHR με πιο καθαρά χαμηλά μεσαία, περισσότερο kick, ένα σκαλί πιο γεμάτο — καθαρό όσο το CHR), λίγο περισσότερο μπάσο και λιγότερη θολούρα στο Natural, και πιο καθαρά, πιο γεμάτα μπάσα στα FM Power, FM Rock, Greek Pop και FM Loud (πιο ήπιος clipper μπάσων). Οι Κάρτες ήχου προειδοποιούν πλέον όταν μια κάρτα στον αέρα δουλεύει χωρίς τη λειτουργία πομπού FM — η συνηθισμένη αιτία του τριξίματος στο FM — και το διορθώνουν με ένα κλικ"
  }
 }
