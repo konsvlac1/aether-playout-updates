@@ -1,8 +1,8 @@
 {
- "version": "1.76",
+ "version": "1.77",
  "date": "2026-11-25",
  "notes": {
-  "en": "Steady voice: a new multiband final limiter takes each peak out of the band that makes it — a kick out of the bass, a cymbal out of the highs — so the voice no longer dips on the beat (FM Rock at −8 LUFS: from 0.61 to 0.29 dB). It costs bass and air, so it is a control, off in every preset: Aether Sound → Advanced → Steady voice",
-  "el": "Σταθερή φωνή: ένας νέος πολυζωνικός τελικός limiter βγάζει κάθε κορυφή από τη μπάντα που την κάνει — ένα kick από τα μπάσα, ένα πιατίνι από τα πρίμα — έτσι η φωνή δεν βουλιάζει πια στον ρυθμό (FM Rock στα −8 LUFS: από 0,61 σε 0,29 dB). Κοστίζει μπάσα και αέρα, γι' αυτό είναι ρύθμιση, κλειστή σε κάθε preset: Aether Sound → Για προχωρημένους → Σταθερή φωνή"
+  "en": "Sound Match: your station's sound next to a reference — another station, an FM receiver, a recording — measured the same way (loudness, density, movement, bass, warmth, presence, air, width), the differences in plain words, and one button that saves a preset moving towards it (Settings → Sound → Sound Match). After a restart Aether Sound starts at the loudness it had, instead of being quieter for half a minute",
+  "el": "Ταίριασμα ήχου: ο ήχος του σταθμού σας δίπλα σε μια αναφορά — έναν άλλο σταθμό, έναν δέκτη FM, μια ηχογράφηση — μετρημένα με τον ίδιο τρόπο (ένταση, πυκνότητα, κίνηση, μπάσα, ζεστασιά, παρουσία, αέρας, εύρος), οι διαφορές σε απλά λόγια και ένα κουμπί που αποθηκεύει ένα preset προς την αναφορά (Ρυθμίσεις → Ήχος → Ταίριασμα ήχου). Μετά από επανεκκίνηση το Aether Sound ξεκινά στην ένταση που είχε, αντί να είναι πιο χαμηλό για μισό λεπτό"
  }
 }
