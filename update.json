@@ -1,8 +1,8 @@
 {
- "version": "1.78.3",
- "date": "2026-11-26",
+ "version": "1.79",
+ "date": "2026-11-27",
  "notes": {
-  "en": "FM Pro, a new preset for the full, professional FM sound: fat bass, a full and dense sound, a very clear voice — FM Full & Clear two steps fuller (peak-to-loudness 7.7 dB against 8.1, measured through an FM receiver's filter), with the same tone and still clean. First in the Music list",
-  "el": "FM Pro, νέο preset για τον γεμάτο, επαγγελματικό ήχο FM: γεμάτα μπάσα, γεμάτος και πυκνός ήχος, πολύ καθαρή φωνή — το FM Γεμάτο & Καθαρό δύο σκαλιά πιο γεμάτο (λόγος κορυφής προς ένταση 7,7 dB αντί 8,1, μετρημένο μέσα από το φίλτρο ενός δέκτη FM), με τον ίδιο χαρακτήρα και πάλι καθαρό. Πρώτο στη λίστα Μουσική"
+  "en": "Crackle diagnosis (Settings → Alerts → Off-air monitor): Aether lines up what the receiver hears with what it sent and says where the crackle on air comes from — this computer's sound card running dry, gaps in the program, the program's loudest peaks clipped after Aether (the transmitter, a link), a weak signal at the receiver, or something after Aether — with what to do about it. The receiver's delay is found by itself; a cause is named only when it stands far above chance. ALSA cards now count their underruns too",
+  "el": "Διάγνωση τριξίματος (Ρυθμίσεις → Ειδοποιήσεις και ασφάλεια → Έλεγχος εκπομπής): το Aether ευθυγραμμίζει ό,τι ακούει ο δέκτης με ό,τι έστειλε και λέει από πού έρχεται το τρίξιμο στον αέρα — η κάρτα ήχου αυτού του υπολογιστή που μένει χωρίς ήχο, κενά στο πρόγραμμα, οι πιο δυνατές κορυφές του προγράμματος που κόβονται μετά το Aether (ο πομπός, μια ζεύξη), αδύναμο σήμα στον δέκτη ή κάτι μετά το Aether — μαζί με το τι να κάνετε. Η καθυστέρηση του δέκτη βρίσκεται μόνη της· μια αιτία ονομάζεται μόνο όταν ξεχωρίζει πολύ από την τύχη. Οι κάρτες ALSA μετρούν πλέον κι αυτές τα κενά τους"
  }
 }
